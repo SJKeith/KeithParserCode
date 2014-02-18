@@ -1,0 +1,1 @@
+insert into mydb.FPGA_config (Channel_No, DTS, Site_ID) values(5,735314.6449,28)

@@ -1,0 +1,1 @@
+ALTER table mydb.message AUTO_INCREMENT = 1
